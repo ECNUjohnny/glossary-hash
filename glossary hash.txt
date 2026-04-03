@@ -1,5 +1,5 @@
 降职：demote			relegate
-偿还，补偿，赎罪：reimburse (v)		indemnity (n)			expiate			 atone		 	redeem					amends				absolve (赦免)
+偿还，补偿，赎罪：reimburse (v)		indemnity (n)			expiate			 atone		 	redeem					amends			
 支付：defray
 投降，屈服：capitulate	   	 succumb	  	submit	  	 surrender	 	concede (承认)
 撤退：retreat		withdraw
@@ -44,8 +44,8 @@
 多产的：fecund				teeming
 青葱的，翠绿的：verdant			lush
 抚摸，拥抱：caress				cuddle				fondle
-光辉的，(脸)涨红的：effulgent			flush			florid			rubicund			lustrous
-手电筒，火把：torch		flashlight
+光辉的，(脸)涨红的：effulgent				flush			florid			rubicund			lustrous			flamboyant
+手电筒，火把：torch				flashlight
 轻率，错误，小罪：indiscretion				venial				imprudence		flippancy	
 使衰弱，使变差，使退化，使衰退：debilitate		deteriorate		enervate		vitiate (损坏，破坏)	
 困扰：besiege			beset
@@ -65,20 +65,20 @@
 序言，序章，开端：preface			overture		 	prelude		 preliminary (初级的)
 发芽：burgeon			germinate			sprout
 传播，散布，宣传：disseminate			propagate		advocate		divulge (泄露)	scatter		promulgate		relay		disperse			diffuse
-预兆，预示，先兆：portend			precursor		harbinger		omen (先兆)		presage			augur		prophetic (adj) 			herald		prognosis		prescient			foreboding 
-不祥的：portentous 	 	 	omnious 				apocalyptic (预示灾祸的)		auspicious (吉祥的)			sinister
+预兆，预示，先兆：portend			precursor		harbinger		omen (先兆)		presage			augur		prophetic (adj) 			herald		prognosis				prescient				forebode 
+不祥的：portentous 	 	 		omnious 				apocalyptic (预示灾祸的)	auspicious (吉祥的)				sinister
 亲近关系，婚姻，伴侣，友好：consort			affinity			spouse		 camaraderie			amity			comity (友好)			crony			rapport (密切关系，交往)
 切除，删去，雕刻：excise	  		efface			exorcise (驱邪)		incise (雕刻)		sunder (切开，分离)
 消灭，排除：eliminate			 neturalize			obliterate	   obviate		expunge		   	purge	 		extirpate				 eradicate
-生长，开端，发芽：incipient		burgeon			initiate			nascent		inchoate (初期的)			
-减少，删节，削减，衰退：retrench			abridge			diminish	dwindle (日渐减少)		wane		ebb			abate		whittle		taper (从下到上逐渐变细)	
+生长，开端，发芽：incipient			burgeon			initiate			nascent	inchoate (初期的)			
+减少，删节，削减，衰退：retrench				abridge				diminish	dwindle (日渐减少)		wane		ebb			abate		whittle		taper (从下到上逐渐变细)	
 代替，顶替：supersede			supplant	
 湍流的，喧闹的，搅动：turbulent			roil (v)			stir (v)			torrential
 倾向，爱好，癖好，嗜好：mannerism			penchant			proclivity	partiality		idiosyncrasy			foible		eccentricity			predilection				propensity
 多元的，不拘一格的，过剩的：plethora					pluralism (多元主义)			eclectic				heterogeneous
 扬弃，精选：winnow
 外向的，爱社交的，群居的：gregarious				extrovert	
-一大群(人，动物等)：horde			throng			swarm				slew (也有旋转，回转的意思)			shoal (也有浅滩，沙洲的意思)
+一大群(人，动物等)：horde			throng			swarm			flock			slew (也有旋转，回转的意思)			shoal (也有浅滩，沙洲的意思)
 运气好，幸运，机缘巧合：serendipity			fortuitous	
 惊吓，吓呆，石化：stupefy			stun (使昏迷)		petrify	 	stupor (使昏睡)		aghast			consternation		coma (昏睡)	
 头晕目眩：giddy			vertigo (眩晕)
@@ -95,8 +95,8 @@
 和地貌有关的：basin: 洼地		aquifer:	含水地层	plateau:	高原	tableland: 高原
 拥护者，反对者：dissenter (反)			dissident (反)		adherent (拥护)		devotee (拥护)		opponent (拥护)				malcontent (反)
 侍从，亲信：stalwart			retinue
-手段，策略，方法，权宜：tactic		expident		  tack (行动步骤，马具)	avenue			ploy		strategam		expedient (方便的，加快)
-老练，机智：savvy			tact				wit
+手段，策略，方法，权宜：tactic			expident		 	 	tack (行动步骤，马具)	avenue			ploy		strategam		expedient (方便的，加快)
+老练，机智：savvy				tact				wit
 相邻的，毗邻的，相接的：contiguous		adjacent			adjoining	 abutting
 漩涡：eddy				maelstorm
 矫正，校正，修正：calibrate	
@@ -114,11 +114,11 @@
 蔑视，情势，藐视，鄙视，看不起，轻蔑，贬损，贬低：contemp 		scorn	disdain		deride		spit (吐口水)		revile (咒骂)			disparage		defy (也有使…成为不可能的意思)		 pejorative (adj)		deprecate		defiance 			derogate
 被鄙视的人：pariah
 践踏：trample			squash
-嘲笑，嘲弄，嘲讽，开玩笑：jibe			gibe			 taunt	 		 sneer  	scoff	   mock	   jeer		 ridicule		tease	  tout (推销，兜售)			banter			heckle (起哄)			persiflage (n)		
+嘲笑，嘲弄，嘲讽，开玩笑：jibe			gibe			 taunt	 		 sneer  	scoff	   mock	   jeer		 ridicule		tease	  tout (推销，兜售)			banter			heckle (起哄)			persiflage (n)			flout	
 玩笑话：jest
 毁谤，诋毁，谣言，诽谤：libel			slander			rumor (谣言)	  belittle		defame			scandal (绯闻)	  		   impute (嫁祸于)	 humiliate (侮辱)		affront	    traduce		 malign		   calumny	       insult				demean
 哗众取宠的表演：grandstand
-玷污，抹黑：blemish			smear			denigrate
+玷污，抹黑：blemish				smear				denigrate
 壁炉；摩擦，磨碎：grate
 毁坏：mar		
 污点：taint	stigma		smudge
@@ -134,8 +134,8 @@
 肉排：cutlet 
 怠慢，轻视，拒绝：rebuff			snub			spurn			shrug (以耸肩表示轻蔑，厌恶)
 建筑上的，构造的：tectonic			erect (建造)
-阻碍，妨碍：impede		clog			preclude			obstruct			hinder	hamper			stymie			balk				encumber			hamstring			preempt			thwart			retard	
-制止：scotch
+阻碍，妨碍：impede		clog			preclude			obstruct			hinder	hamper				stymie				balk					encumber			hamstring			preempt					thwart				retard
+制止：scotch				forestall
 告别：valediction	
 畏缩，因害怕而发抖：balk	 		 flinch	 		quail (也有鹌鹑的意思)		  tremble			quaver			quiver	
 摇摆不定，踌躇：vascillate	   	 	oscillate		 	waver	     	sway
@@ -160,10 +160,10 @@
 叛乱，背叛：rebel		   insurrection	        riot		    mutiny		   insurgent (叛乱分子)			reactionary (反动分子)			perfidy (背叛)
 反抗，反叛，抗议，背叛：	revolt		 veto			protest			defiance
 反对，不同意：demur			repudiate		refute		  dupute		impugn (指责，怀疑)			gainsay			retort (反驳，回嘴)
-加剧，刺激，提高：exasperate			exacerbate			escalate (也有逐步升高的意思)	galvanize		goad		spur  		prod			aggravate		whet	
+加剧，刺激，提高：exasperate			exacerbate			escalate (也有逐步升高的意思)	galvanize				goad			spur  			prod	aggravate			whet	
 有害的，敌对的，恶性的： detrimental				inimical			antagonistic	pernicious	     malignant	    	deleterious			injurious		baleful				malevolent
-有毒的：noxious		toxic		venomous			virulent
-早熟的：precocious			premature	
+有毒的：noxious			toxic			venomous			virulent
+早熟的：precocious				premature	
 成熟：ripen
 不同的，不平衡的：uneven			disparate	
 满不在乎的，冷漠的，冷淡的，不关心的，麻木的：nonchalant		apathy		impassive		phlegamatic			stolid
@@ -173,6 +173,7 @@
 紧张的，忙碌的：hectic		
 不必要的，无端的，琐碎的：gratuitous		    gratuity (小费)		gratis (正式语境下的免费)	  	trifle		   diminutive (微小的)			puny			petty			fuss (n)
 使混乱，使迷惑，困惑：bewilder		 flummox			perplex		   baffle			 stun			confound		 muddle 		    bemuse		   addle (也有腐烂的的意思)			nonplus			tangle (使混作一团)	
+困惑的，嘲弄地：quizzical
 各种菌类：mould / mold : 霉菌，塑造		yeast : 酵母菌		fungus : 真菌
 germ : 微生物		ferment : 发酵
 发酵，影响，渐变：leaven
@@ -183,7 +184,7 @@ germ : 微生物		ferment : 发酵
 铅锤，垂直：plummet			plumb (也有探索的意思，同probe)
 数量多的：numerous		myriad	  	 substantial		 profuse   		surfeit	opulence	
 稀少的：sparse		  scarce		    sporadic		   meager		  scant		  paltry   		dearth		  paucity			 sordid		   exiguous
-胶水，难忘的：adhesive		    paste (粘贴)
+胶水，难忘的：adhesive		  
 一些常用的介词：notwithstanding : 尽管，虽然		heitherto : 到目前为止	albeit : 虽然，即使		whereas : 然而，但是	wherewithal : 用其，以其 (也有必要的资金的意思)	heretofore : 到目前为止
 防范，规避，避开：circumvent			avert			hedge			dodge		shun		evade			eschew	 		forgo			shirk (也有偷懒者的意思)			parry (挡开，避开)
 温暖的，舒适的：snug			cozy			plush (也有豪华的意思)
@@ -220,8 +221,8 @@ germ : 微生物		ferment : 发酵
 出处，起源：provenance	
 令人恶心的，可鄙的，卑劣的，卑鄙的：sordid	       vile		    despicable	wretched    	seamy	      scurvy (也有坏血病的意思)		repugnant	turpitude (卑鄙的行为)			hideous
 贫穷的，贫困的：destitute	  		 impecunious	    	penniless			needy
-贫穷：penury	 	 indigence	   		penniless			impecunious		
-炫耀，招摇：flaunt			vaunt			bluster
+贫穷：penury	 				 indigence	   			penniless			impecunious				destitution
+炫耀，招摇：flaunt				vaunt				bluster
 辉煌的：refulgent	
 全体，全套：ensemble		repertoire
 纺织的：textile
@@ -230,7 +231,7 @@ germ : 微生物		ferment : 发酵
 有传染性的，流行的，普遍的：contagious		epidemic		infectious	prevalent		prevailing			rife
 同情，怜悯：commiserate			sympathise			compassion
 幸灾乐祸：gloat
-使慌乱，使混乱：flutter			fluster  	jumble (物理意义上的变乱)	
+使慌乱，使混乱：flutter				fluster  		jumble (物理意义上的变乱)
 倾斜，斜坡：slope			tilt	
 调和，编造：concoct
 角斗士：gladiator	
@@ -296,7 +297,7 @@ germ : 微生物		ferment : 发酵
 危险：jeopardy				perilous	(adj)			hazardous
 光泽，光彩：luster				incandescent	 (白炽)				iredescent (彩虹色)			gloss
 染色：tint			tinge
-轻浮，多变：levity			frivolous			flippant		
+轻浮，多变：levity				frivolous				flippant				fickle	
 凝结，凝固： congeal			clot			coagulate	
 火海，大火：conflagration			inferno			blaze (作动词为燃烧)
 烧焦：singe			scorch
@@ -317,11 +318,12 @@ germ : 微生物		ferment : 发酵
 hoodwink
 违法的：illicit				infraction (n)
 词汇表：glossary
-猜测，推测：surmise		conjecture			speculate
+猜测，推测：surmise			conjecture				speculate
 沉思，冥想：muse			contemplate				ponder			meditate
 推理：deduce			extrapolate				ratiocination			postulate
 煽动，骚乱：sedition				agitate	
-发起，煽动，颠覆：instigate		subversive (颠覆性的)		overthrow (推翻)		incite			topple			subvert (v)
+颠覆：subversive (颠覆性的)		overthrow (推翻)			topple	
+煽动，增长：foment				instigate				incite
 纵火者：incendiary
 混乱，纷争：agitation		turmoil			tumult			pandemonium		strife		clutter			muddle			jumble			welter
 喧哗，嘈杂：hubbub			uproar			commotion	
@@ -365,9 +367,9 @@ hoodwink
 运动的：kinetic			motile
 静止的：sedentary				stationary
 害怕，担忧，胆小：timidity			trepidation		misgiving		bashful	coy			pusillanimous		craven				tremulous
-尖酸刻薄的，尖锐的：vitriolic	  	  acidulous	    aserbic		     trenchant	strident		   scathing			acrimonious
+尖酸刻薄的，尖锐的：vitriolic	  	  acidulous	    	aserbic		     trenchant			strident		   		scathing				acrimonious
 血统：pedigree
-可理解性：intelligibility  		simplicity
+可理解性：intelligibility  			simplicity
 讨厌，憎恶，厌恶：abhor		abominate			detest			loathe		anathema (n)			obnoxious (adj)		loathsome		 odium			repel			nuisance	 (n)			resent			nasty (adj)
 怨恨：grudge 			rancor				spite	
 使烦恼，使厌烦：vex			peeve			nettlesome	
@@ -385,6 +387,7 @@ hoodwink
 (给水果)剥皮，削皮，去掉外皮：peel
 雏鸟，处，新手：novice		juvenile			virgin	  		tyro			trainee				neophyte
 幼稚的：puerile
+计划受挫，失败；奠基人：founder
 潜行：lurk			prowl			skulk
 偷窥：peep
 纠纷，瓜葛：imbroglio
@@ -402,13 +405,15 @@ hoodwink
 含糊不清的说：slur	
 不好听的话语，咒骂，争吵，辱骂，吵架：carp	  			 obloquy	 	opprobrium	   		 censure			quarrel					diatribe		berate				rant
 吹毛求疵：carp					carp
-长篇大论：harangue			peroration			bombast			gush (洋洋洒洒的写)			prate
+长篇大论：harangue				peroration			bombast			gush (洋洋洒洒的写)			prate			filibuster
+争吵，论战：fracas
 口角，争论，吵架：tiff			spat				wrangle				squabble	sulk
 辩驳：polemic			rebut			refute			confute	 		lambast			tirade			invective
 抱怨，牢骚：grouch		gripe		grumble			grievance		mutter	moan		querulous (抱怨的)			grouse				repine
 小声说，嘟囔，嘀咕：mutter			mumble				murmur
 蒙住，裹住，低沉的声音：muffle
 吹牛，胡说，吹嘘：braggart			malarkey			slobber			drivel			footle			gasconade			quack (也有江湖医生的意思)
+引证，举出：adduce
 乖戾的，无礼的，唐突的，不礼貌的，粗暴的：surly		curt		   brusque	gruff		 discourteous
 易怒的，生气的，急躁的，暴躁的：fractious		 irritable		petulant		irascible 		fretful	 	 outrage (暴行)	   	 umbrage (n)		 	peevish				resent				testy				irate
 冲动的：impetuous				hasty
@@ -442,13 +447,15 @@ hoodwink
 无聊：ennui			rigmarole (冗长的废话)		
 细长的，瘦长的：gangly			slender			spindly			lanky
 酱油：soy			sauce
+起泡的，中空的：frothy				porous
 耳状物，把手，笨家伙：lug
 有利可图的：remunerative		lucrative		
 催眠曲：lullaby				berceuse
 剥夺，禁止：proscribe			interdict			embargo (n) 		injunction (n) 			inhibit				oust (罢免，驱逐，剥夺)
 虔诚的，尊敬的：devout			pious			earnest				esteem (v)		venerate				reverent				worship			homage (n)
 甜的，做作的：saccharine			confection (糖果，蜜饯)
-浮肿的：bloated				swollen				larynx (喉咙)
+浮肿的：bloated				swollen		
+喉咙：larynx
 渎职，玩忽职守：deliquency			malfeasance				dereliction
 嬉戏，玩闹：gambol
 入侵，侵犯：incursion			offense			entrench (v)
@@ -520,7 +527,7 @@ hoodwink
 碎片，分片：shard				piecemeal				mince		
 破片，分片：shard			splinter			sliver			shred (切成细条)	scrap (非金属，小片，小块，报废，吵架)			rend (撕碎)
 捣碎：mash
-宽恕，饶恕：condone
+宽恕，饶恕：condone         absolve
 大脑的，深思的：cerebral
 歧视：discriminate
 薄荷; 铸造，创造：mint
@@ -537,7 +544,7 @@ hoodwink
 选民：poll				ballot			electorate	
 分裂，断开：splilt			breach (也有违反的意思)		rupture			schism
 引起，成为…的父亲：beget
-忠诚：fidelity		fealty			allegiance				dedication (奉献)	
+忠诚：fidelity					fealty						allegiance		dedication (奉献)	
 绑架：abduct			赎金：ransom	
 拖延，搁置：procrastinate		abeyance		adjourn			dally		tarry
 跪倒的，降伏的，俯卧的，屈服的：prostrate		
