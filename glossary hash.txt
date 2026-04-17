@@ -1,4 +1,4 @@
-降职：demote			relegate
+降职：demote   		relegate
 偿还，补偿，赎罪：reimburse (v)		indemnity (n)			expiate			 atone		 	redeem					amends			
 支付：defray
 投降，屈服：capitulate	   	 succumb	  	submit	  	 surrender	 	concede (承认)
@@ -18,8 +18,8 @@
 概要的，一览无余的，全局的：synoptic		 	 panorama	    compendium (n)
 造假，假的，伪造的，虚假的：bogus	   		fabricate (v)   		spurious		 mock		 	shoddy				sham			counterfeit
 暗指，暗示：insinuate	    	 hint	    	  allude				inkling
-完全相反的：antithetical		    inverse			
-放弃，免除，废除：renunciation	 		relinquish		 abort   	 abrogate	repeal		revoke		  discard		retract (收缩，取消)		rescind		abnegate		forgo		forsake		forswear			waive			renounce			abdicate			divest (剥去，脱离)			recant
+完全相反的：antithetical		  		  inverse			
+放弃，免除，废除：renunciation	 		relinquish		 abort   	 abrogate	repeal		revoke		  discard		retract (收缩，取消)		rescind		abnegate		forgo		forsake			forswear			waive			renounce			abdicate			divest (剥去，脱离)			recant
 休会，暂停，延迟：abjure
 隐藏，隐瞒，封装：veil			conceal				seal				cloak
 贮藏：hoard
@@ -30,6 +30,7 @@
 雄伟的，壮丽的：majestic			grandiose		stately			superb			splendid				imposing
 夸张：grandlioquent				hyperbole	
 分层，分支：stratify			ramify	  	 	diverge				divergent (adj)
+召集：convene				convoke					summon					muster
 弹回，反弹，韧性，恢复的能力：rebound   	recoil    	resilience	  rally (也有聚集的意思)	
 旧病复发：relapse
 无节制的，放荡的，色气的，好色的：dissolute		 salacious		voluptuous	prurient			erotic			profligate 			lustful		   dissipated			libertine
@@ -40,6 +41,7 @@
 调情，挑逗：flirt			coquet				philander			vamper		leer (抛媚眼)		tantalize
 丰富的，多育的，丰饶的：	prolific			fertile			exuberant (茂盛的)		proliferate (v)		flourish (v; n: 华丽的辞藻)		lush			copious		  profusion (n)			 multifarious (各种各样的)	manifold (多方面的)
 苍白的，病态的：pallid
+成群的离开：exodus
 豪华的：sumptuous				prosperous			plush
 多产的：fecund				teeming
 青葱的，翠绿的：verdant			lush
@@ -126,6 +128,7 @@
 灰尘，斑点，污点：speck		 speckle
 杂色的，花斑的：pieball		mingy			mongral				motely mottled
 座右铭，谚语，格言警句：proverb			motto			maxim			adage			aphorism			dictum
+敦促，劝告：exhort
 寓言，比喻：parable			fable			allegory	
 不幸的事：mishap
 无赖，流氓，恶棍：miscreant				scoundrel			rapscallion		ruffian
@@ -138,10 +141,12 @@
 制止：scotch				forestall
 告别：valediction	
 畏缩，因害怕而发抖：balk	 		 flinch	 		quail (也有鹌鹑的意思)		  tremble			quaver			quiver	
-摇摆不定，踌躇：vascillate	   	 	oscillate		 	waver	     	sway
+摇摆不定，踌躇：vascillate	   	 	oscillate		 	waver	     	sway	
+falter
 摇摆：wobble			wag	
 优雅的，飘渺的，美的，有魅力的：ethereal			 gorgeous	  	stunning		glamorous		esthetic			prepossessing 		fascination (n)		charisma (n) 
 可爱的，讨人喜的：winsome
+休闲的，（土地）休耕的：fallow
 狂妄，自大，骄傲自满，自命不凡的：complacent			hubris	    supercilious (adj)		  condescending (adj)		haughty			arrogant		swagger			 cavaliar (也有武士的意思)	   snobbish	  		conceit		smug (自鸣得意，adj)			pompous			hauter (n)
 做作的，自命不凡的，势利的：pretentious			 ostentatious		presumptuous		    pontifical		   snobbish		     swanky		theatrical			
 戏剧的，装腔作势的：histrionic
@@ -224,7 +229,7 @@ germ : 微生物		ferment : 发酵
 贫穷：penury	 				 indigence	   			penniless			impecunious				destitution
 炫耀，招摇：flaunt				vaunt				bluster
 辉煌的：refulgent	
-全体，全套：ensemble		repertoire
+全体，全套：ensemble				repertoire
 纺织的：textile
 贵族的，精英的：patrician			elite			aristocratic			gentry (也有人们的意思)
 市侩的，庸俗的：philistine
@@ -241,11 +246,12 @@ germ : 微生物		ferment : 发酵
 动乱，大变动，灾难：upheaval			massacre		holocaust		catastrophe				calamity				havoc
 痉挛，抽搐：convulsion
 审判地点，犯罪地点，音乐表演的场所：venue
-悦耳的，动听的：dulcet			melodious			mellifluous
-双关，遁词：quibble	  	 		euphemism				circumlocution	 equivocate				pun
+悦耳的，动听的：dulcet			melodious			mellifluous				euphonious
+双关，遁词：quibble	  	 	euphemism				circumlocution	 equivocate				pun
 精华的，典型的：quintessential
-挑剔的，过分讲究的：fastidious			 finiky		   fussy	
-监督，监考：supervise		superintend		invigilate		surveillance		proctor			oversee		  scout (监视)
+挑剔的，过分讲究的：fastidious				 finiky		 	  fussy			
+exquisite
+监督，监考：supervise			superintend			invigilate			surveillance				proctor				oversee		 	 scout (监视)
 审查，检查：scturiny			inspect			censor			peruse (精读，仔细的看)		canvass
 潦草的写：scribble				jot				scrawl
 漏勺：colander			sieve (筛子)
@@ -262,14 +268,13 @@ germ : 微生物		ferment : 发酵
 不可改变的，无法挽回的，无法修复的：irrevocable			irreparable	
 改变，转换，改观，美化：convert			transmute			metamorphose	transfigure
 变化多端的：protean		mutate (变异)	
-基因突变：mutation
-古怪的，离奇的，荒唐的：queer			whimsical			preposterous			peculiar		 bizarre			 outlandish			exotic (稀奇的，外来的)			eccentric    		grotesque (古怪的人或事)		erratic		ludicrous
+古怪的，离奇的，荒唐的：queer			whimsical			preposterous		peculiar			 bizarre			 outlandish			exotic (稀奇的，外来的)			eccentric    		grotesque (古怪的人或事)		erratic		ludicrous
 不可言说的：ineffable
-搞笑的，滑稽的：helirious			ludicrous			droll
-淘气的，调皮的：impish		mischievous			wicked			puckish
-补助金，养老金：subsidy	  annuity		  perquisite	     dividend (分红)		subvention
+搞笑的，滑稽的：helirious				ludicrous				droll			facetious			waggish
+淘气的，调皮的：impish				mischievous				wicked			puckish
+补助金，养老金：subsidy	  	annuity			  perquisite	    	 dividend (分红)		subvention
 代金券：coupon			voucher			bounty (奖金)		token
-哄骗，诱使，引诱：allure		wheedle		 inveigle		coax		cajole	lure	 	  entrap			bait (诱饵)			mendacity (撒谎)		abet
+哄骗，诱使，引诱：allure			wheedle		 		inveigle			coax	cajole			lure	 	  			entrap					bait (诱饵)		mendacity (撒谎)		abet
 骗子：impostor
 狡猾的，聪明的，机灵的：astute	    cunning 	    canny	    	 witful	   shrewd			wily			sly
 诡计：guile
@@ -296,13 +301,12 @@ germ : 微生物		ferment : 发酵
 凋零，枯萎，凋谢：wilt		wither			droop			shrivel			wizen				languish
 危险：jeopardy				perilous	(adj)			hazardous
 光泽，光彩：luster				incandescent	 (白炽)				iredescent (彩虹色)			gloss
-染色：tint			tinge
 轻浮，多变：levity				frivolous				flippant				fickle	
 凝结，凝固： congeal			clot			coagulate	
 火海，大火：conflagration			inferno			blaze (作动词为燃烧)
 烧焦：singe			scorch
 懒惰，不活泼，劳累，乏力，困倦：inert			torpor		 	languid (adj)		sluggish				indolent				lethargic				 drowsy			enervated			languor				fatigue				torpid			sloth (也有树獭的意思)				lassitude
-缓慢，迟到的，落后的：tardy			laggard				punctual (守时的)
+缓慢，迟到的，落后的：tardy			laggard				
 催眠的：hypnotic			somnolent			soporific		narcotic		
 抵触，违反：contravene				transgress			infringe				trespass			encroach (蚕食)			intrude (入侵)		breach
 分解，腐烂：decompose			decay			fester (化脓)			putrefy	  	rankle (化脓)			septic (受感染的，败血症的)
@@ -340,7 +344,8 @@ hoodwink
 空的：vacuous			vacant
 篡改，篡位：usurp			temper
 和植物有关的：stigma : 柱头	stalk : 茎，梗 (也有趾高气昂的走的意思)	trunk : 树干 	stem : 茎，树的枝干	prune : 剪枝
-时髦的，流行的：vogue			fad			dashing			jaunty		
+时髦的，流行的：vogue				fad				dashing				jaunty
+cult	
 威胁，恐吓，敲诈，勒索：intimidate		menace		   coerce (强迫)		extort (敲诈)			 blackmail (敲诈)		hector
 训练，磨刀：hone	
 枯燥的，陈腐的：mundane		 platitude		  cliché		  hackneyed		insipid	     vapid			banal		stale		jejune		humdrum	trite			threadbare		 drab (也有邋遢的女人的意思)			prosaic
@@ -356,7 +361,8 @@ hoodwink
 司空见惯的，每一天的，平常的：mundane		quotidian		workaday
 尖锐的：aserbic			trenchant			strident				scathing			acrimonious
 束缚：fetter				manacal				bridle			rein (缰绳)			yoke		shackle			truss (也有一捆，一束的意思)			tether (用绳子拴住)
-道德，气节：ethos		ethic
+派别：faction			clique
+道德，气节：ethos			ethic
 吝啬的，节俭的，花钱少的：stingy			miserly	 	 parsimonious		penurious		illiberal			frugal (花钱少的)			thrifty (节俭的)		abstemious (有节制的)			provident (顾及未来的)
 国会，议会：parliament		  congress
 行业工会，镀金：gild
@@ -467,8 +473,12 @@ hoodwink
 柔顺的，柔软的：supple		pliable			limber			elastic		ductile				tender				sveltes			pliant			lissome				lithe
 短暂的，瞬间的:  ephemeral			instantenous				evanescent		transient				transitory			slippery				meteoric
 博爱的，慈善的，为他人着想的：benevolent  		altruistic			benificient	philanthropic
-支持，加强，巩固：undergrid		buttress			reinforce		prop
-救援，帮助，支持：succor			abet (也有教唆，怂恿的意思)
+支持，加强，巩固：undergrid				buttress				reinforce		prop
+救援，帮助，支持：succor			abet				extricate
+教唆，怂恿：entice				abet
+颜料：pigment				dye
+染色：tint			tinge
+
 独断的，独裁的，专制的：peremptory			dictatorial			autocratic
 统治者，君主：potentate	
 冲泡（茶）：infuse		   brew (也有啤酒的意思)
@@ -612,9 +622,4 @@ hoodwink
 花名册：roster
 航海的：nautical
 勇气：grit				mettle
-外壳，皮，无用之物：husk
-
-
-
-
-
+外壳，皮，无用之物：husk            
